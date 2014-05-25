@@ -4,10 +4,10 @@
     <declare-styleable name="Slidebutton">
 
         <!-- 背景图片 -->
-        <attr name="bg" format="integer" />
+        <attr name="bg" format="reference" />
 
         <!-- 按钮图片 -->
-        <attr name="bn" format="string" />
+        <attr name="bn" format="reference" />
 		
         
     </declare-styleable>
