@@ -9,8 +9,6 @@
         <!-- 按钮图片 -->
         <attr name="bn" format="string" />
 		
-		<!-- 开关状态 -->
-        <attr name="status" format="boolean" />
         
     </declare-styleable>
     

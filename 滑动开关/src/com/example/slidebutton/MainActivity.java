@@ -13,5 +13,6 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		SlideButton slide_bn = (SlideButton) findViewById(R.id.slide_bn);
+		slide_bn.setStatus(true);
 	}
 }
